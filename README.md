@@ -100,9 +100,16 @@ git pull origin dev
 7. Under Reviewers select the person who will be responsible to review the code changes & resolve the conflits (If you set your default reviewer earlier, it should be autopopulated) 
 8. Click on 'Create pull request' button.
 
-### STEP 5 - Make changes & commit
-* After making some changes to your repository commit the changes. You should already know how to do that.
-
+### STEP 5 - Resolve conflicts if any (Very rare case)
+* Skip this step if you do not have any conflicts to be resolved. To resolve the conflicts you need to be the admin of your repository. Use the below process in your ___PHP Storm___...
+1. At first, go to your local repository and update (pull) both master & dev branch one by one. 
+2. Check out the dev branch
+3. Merge master into current (dev)
+4. You will be prompt with a merge conflict window with all the files listed there.
+5. Double click each file and repeate the below steps
+6. select ___'Accept left'___ if you want to retain the changes from the __'test'__ branch & delete the changes from the __'master'__
+7. select ___'Accept right'___ if you want to retain the changes from the __'master'__ branch & delete the changes from the __'test'__
+8. If you need both changes from the both branches, click on arrows in the window and click OK.
 
 
 
