@@ -110,21 +110,10 @@ git pull origin dev
 6. select ___'Accept left'___ if you want to retain the changes from the __'test'__ branch & delete the changes from the __'master'__
 7. select ___'Accept right'___ if you want to retain the changes from the __'master'__ branch & delete the changes from the __'test'__
 8. If you need both changes from the both branches, click on arrows in the window and click OK.
+9. Push the commits to the remote.
 
+### STEP 6 - If you are a reviewer, Review Pull request
+* If you are a reviewer, click on Approve button on the top right.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### STEP 7 - Merge pull request
+* Now go to the Pull request (as admin) and click on Merge button on the top right
