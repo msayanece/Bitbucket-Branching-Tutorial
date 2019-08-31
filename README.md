@@ -5,13 +5,13 @@ Tutorial for using Bitbucket for git branching and maintain.
 For understanding this tutorial, you need to know basic git commands & concepts (including setup), know how to use Bitbucket as a VCS Server. You need to have a repository in your bitbucket account (Admin) & in your local machine with master branch.
 
 ## Contents
-* [REPOSITORY SETUP](https://github.com/msayanece/Bitbucket-Branching-Tutorial#repository-setup)
+* [__REPOSITORY SETUP__](https://github.com/msayanece/Bitbucket-Branching-Tutorial#repository-setup)
 1. [Create new branch](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-1---create-new-branch)
 2. [Change Branch Permission](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-2---change-branch-permission)
 3. [Pull Request Settings](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-3---pull-request-settings)
 4. [Fetch new remote branch to your local machine VCS](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-4---fetch-new-remote-branch-to-your-local-machine-vcs)
 
-* [GENERAL COMMIT-UPDATE-PUSH-PULL_REQUEST-MERGE](https://github.com/msayanece/Bitbucket-Branching-Tutorial#general-commit-update-push-pull_request-merge)
+* [__GENERAL COMMIT-UPDATE-PUSH-PULL_REQUEST-MERGE__](https://github.com/msayanece/Bitbucket-Branching-Tutorial#general-commit-update-push-pull_request-merge)
 1. [Make changes & commit](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-1---make-changes--commit)
 2. [Update (Pull) remote changes to your local](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-2---update-pull-remote-changes-to-your-local)
 3. [Push your commit to the Bitbucket server](https://github.com/msayanece/Bitbucket-Branching-Tutorial#step-3---push-your-commit-to-the-bitbucket-server)
